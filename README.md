@@ -6,7 +6,7 @@ This is a fun and interactive app that will let you play by taking a timed quiz.
 
 The following animation demonstrates the application functionality:
 
-![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./04-web-apis-homework-demo.gif)
+![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./CodingQuiz.gif)
 ## User Story
 
 ```
